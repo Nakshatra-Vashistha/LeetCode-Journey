@@ -17,6 +17,7 @@ class Solution {
             while(start<end && heights[start]<=min) start++;
             while(start<end && heights[end]<=min) end--;
         }
+        System.gc();
         return result;
     }
 }
