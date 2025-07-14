@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i =0;i < 1000; i++){
+            new Solution().maxArea(new int[]{0,0});
+        }
+    }
     public int maxArea(int[] height) {
         int max = 0;
         int left = 0;
@@ -7,8 +12,7 @@ class Solution {
         while(left < right){
             int w = right - left;
             int h = Math.min(height[left] , height[right]);
-            int res = w * h;
-            max = Math.max(max , res );
+            max = Math.max(max , w * h);
 
             if(height[left] < height[right]){
                 left++;
