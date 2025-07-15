@@ -1,28 +1,54 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-        
-        for(int num : nums){
-            set.add(num);
-        }
-
-        int longest = 0;
-
-        for(int num : set){
-            if(!set.contains(num - 1)){
-                int current = num;
-                int currentstreak = 1;
-
-                while(set.contains(current + 1)){
-                    current++;
-                    currentstreak++;
-
-                }
-
-                longest = Math.max(longest , currentstreak);
+      int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+        for (int i : nums) {
+            if (i < min) {
+                min = i;
+            }
+            if (i > max) {
+                max = i;
             }
         }
-        return longest;
-        
+        if (max < 100000) {
+            boolean[] arr = new boolean[max - min + 1];
+            for (int i : nums) {
+                arr[i - min] = true;
+            }
+            int maxlen = 0;
+            int currmaxlen = 0;
+            boolean state = false;
+            for (boolean b : arr) {
+                if (b == false) {
+                    if (currmaxlen > maxlen)
+                        maxlen = currmaxlen;
+                    currmaxlen = 0;
+                } else {
+                    currmaxlen++;
+                }
+            }
+            if (currmaxlen > maxlen)
+                maxlen = currmaxlen;
+            return maxlen;
+        } else {
+            Set<Integer> set = new HashSet<>();
+            for (int i : nums) {
+                set.add(i);
+            }
+            int longest = 0;
+            int current;
+            for (int i : set) {
+                if (!set.contains(i - 1)) {
+                    int now = i;
+                    current = 1;
+                    while (set.contains(now + 1)) {
+                        current++;
+                        now++;
+                    }
+                    longest = Math.max(longest, current);
+                }
+            }
+            return longest;
+        }  
     }
 }
