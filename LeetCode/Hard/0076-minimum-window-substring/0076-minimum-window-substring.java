@@ -1,41 +1,41 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public String minWindow(String s, String t) {
         if (s == null || t == null || s.length() == 0 || t.length() == 0 || s.length() < t.length()) {
             return "";
         }
 
-        // Frequency map to store how many times each character appears in t
-        int[] map = new int[128];
+        // Map to store required characters and their frequencies from t
+        Map<Character, Integer> requiredMap = new HashMap<>();
         for (char c : t.toCharArray()) {
-            map[c]++;
+            requiredMap.put(c, requiredMap.getOrDefault(c, 0) + 1);
         }
 
-        int left = 0;               // Left pointer of the window
-        int right = 0;              // Right pointer of the window
-        int count = t.length();     // Number of characters still needed to match t
-        int minLen = Integer.MAX_VALUE; // Track the smallest window length
-        int minStart = 0;               // Track the start index of the smallest window
+        // Number of characters from t that we need to match in s
+        int required = t.length();
+        int left = 0, right = 0;
+        int minLen = Integer.MAX_VALUE;
+        int minStart = 0;
 
-        // Convert s to character array for faster access
         char[] chS = s.toCharArray();
 
-        // Start sliding the window
         while (right < chS.length) {
             char currentChar = chS[right];
 
-            // If this character is needed (still has positive count), decrease count
-            if (map[currentChar] > 0) {
-                count--;
+            // If current character is needed, decrease its count in map and required count
+            if (requiredMap.containsKey(currentChar)) {
+                if (requiredMap.get(currentChar) > 0) {
+                    required--;
+                }
+                requiredMap.put(currentChar, requiredMap.get(currentChar) - 1);
             }
 
-            // Always reduce the character count in map
-            map[currentChar]--;
+            right++; // Move window forward
 
-            right++; // Move the right pointer forward
-
-            // If all characters are matched, try shrinking the window
-            while (count == 0) {
-                // Update minimum window if it's smaller than previously found
+            // Try to shrink the window when all characters are matched
+            while (required == 0) {
                 if (right - left < minLen) {
                     minLen = right - left;
                     minStart = left;
@@ -43,25 +43,23 @@ class Solution {
 
                 char charAtLeft = chS[left];
 
-                // Increase the character count in the map
-                map[charAtLeft]++;
+                if (requiredMap.containsKey(charAtLeft)) {
+                    requiredMap.put(charAtLeft, requiredMap.get(charAtLeft) + 1);
 
-                // If that character was needed (i.e., count goes from 0 to 1), we now miss a required char
-                if (map[charAtLeft] > 0) {
-                    count++;
+                    // If we need this character again, increase required
+                    if (requiredMap.get(charAtLeft) > 0) {
+                        required++;
+                    }
                 }
 
-                // Move the left pointer forward to try and shrink the window
-                left++;
+                left++; // Shrink window from the left
             }
         }
 
-        // If we never updated minLen, no window was found
+        // Return result based on whether we found a valid window
         if (minLen == Integer.MAX_VALUE) {
             return "";
         }
-
-        // Return the substring from minStart with length minLen
         return new String(chS, minStart, minLen);
     }
 }
