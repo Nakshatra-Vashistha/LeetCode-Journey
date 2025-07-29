@@ -5,9 +5,9 @@ class Solution {
         }
         int prev = 1 , curr = 1;
         for(int i = 2 ; i <= n ; i++){
-            int temp = curr;
-            curr = prev + curr;
-            prev = temp;
+            int temp = prev + curr;
+            prev = curr;
+            curr = temp;
         }
         return curr;
     }
