@@ -10,6 +10,7 @@ class Solution {
         for(int i = 2 ; i < n ; i++){
             dp[i] = Math.max(dp[i-2] + nums[i] , dp[i-1]);
         }
+        System.gc();
         return dp[n-1];
         
     }
