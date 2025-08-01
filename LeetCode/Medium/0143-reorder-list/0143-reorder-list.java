@@ -1,46 +1,27 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public void reorderList(ListNode head) {
-        if(head == null){
-            return;
+       ListNode tem=check(head,head);
+       return;
+    }
+    public ListNode check(ListNode s,ListNode f)
+    {
+        if(f.next==null)
+        {
+           ListNode tem=s.next;
+           s.next=null;
+           return tem; 
         }
-
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        if(f.next.next==null)
+        {
+            ListNode tem=s.next.next;
+            s.next.next=null;
+            return tem;
         }
-        ListNode curr = slow.next;
-        slow.next = null;
-        ListNode dummy = null;
-        while(curr != null){
-            ListNode nxt = curr.next;
-            curr.next = dummy;
-            dummy = curr;
-            curr = nxt;
-        }
-
-        ListNode first = head;
-        ListNode second = dummy;
-
-
-        while(second != null){
-           ListNode temp1 = first.next , temp2 = second.next;
-           first.next = second;
-           second.next = temp1;
-           first = temp1;
-           second = temp2;
-        }
-        
+        ListNode res=check(s.next,f.next.next);
+        ListNode sn=s.next;
+        ListNode resn=res.next;
+        s.next=res;
+        res.next=sn;
+        return resn;
     }
 }
