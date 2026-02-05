@@ -6,13 +6,13 @@ class Solution {
         rowl = grid.length;
         coll = grid[0].length;
 
-        for (int j = 0; j < coll; j++) {
+        for (int j = 0; j < rowl; j++) {
             if (grid[0][j] == 1) dfs(0, j, grid);
             if (grid[rowl - 1][j] == 1) dfs(rowl - 1, j, grid);
         }
 
         
-        for (int i = 0; i < rowl; i++) {
+        for (int i = 0; i < coll; i++) {
             if (grid[i][0] == 1) dfs(i, 0, grid);
             if (grid[i][coll - 1] == 1) dfs(i, coll - 1, grid);
         }
