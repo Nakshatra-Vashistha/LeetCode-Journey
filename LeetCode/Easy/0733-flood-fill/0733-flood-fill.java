@@ -9,11 +9,7 @@ class Solution {
         coll = image[0].length;
         int og = image[sr][sc];
 
-        // for(int i = sr ; i < rowl ; i++){
-        //     for(int j = sc ; j < coll ; j++){
-        //         dfs(i,j,image,color , og);
-        //     }
-        // }
+        
         dfs(sr,sc,image,color , og);
         return image;
         
