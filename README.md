@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -61,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
