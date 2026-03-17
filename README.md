@@ -55,6 +55,7 @@
 | [0724-find-pivot-index](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,28 @@
 | [0724-find-pivot-index](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 <!---LeetCode Topics End-->
