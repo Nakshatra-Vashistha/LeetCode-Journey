@@ -55,6 +55,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Stack
@@ -84,12 +86,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Heap (Priority Queue)
@@ -104,15 +108,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 <!---LeetCode Topics End-->
