@@ -41,6 +41,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 ## Graph Theory
@@ -50,6 +51,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -122,4 +124,8 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->
