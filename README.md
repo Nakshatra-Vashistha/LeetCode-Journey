@@ -44,6 +44,7 @@
 | [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Design
@@ -128,4 +130,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 <!---LeetCode Topics End-->
