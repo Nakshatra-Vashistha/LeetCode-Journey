@@ -148,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
