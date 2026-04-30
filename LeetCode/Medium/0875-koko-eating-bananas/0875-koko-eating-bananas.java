@@ -3,36 +3,39 @@ class Solution {
         int low = 0;
         int high = 0;
 
-        for(int n : piles){
-            if(n > high){
-                high = n;
+        for(int p : piles ){
+            if(p > high){
+                high = p;
             }
         }
 
-        int ans = high;
+        int ans = 0;
 
         while(low <= high){
-            int mid = low + (high - low) / 2;
-
-            if(isValid(piles, mid, h)){
+            int mid = low + (high-low) / 2;
+            if(isValid(piles , mid , h )){
                 ans = mid;
                 high = mid-1;
+
             }
             else{
-                low = mid + 1;
+                low = mid+1;
             }
-        }
 
+        }
         return ans;
+        
     }
 
-    public boolean isValid(int[] piles , int k , int h){
+    public boolean isValid(int[] piles , int mid , int h){
         int hours = 0;
 
-        for(int pile : piles){
-            hours += Math.ceil(pile / k);
+        for(int p : piles){
+            hours += Math.ceil((double)p / mid);
         }
 
-        return hours <= h;
+        return hours <= h ;
+
+        
     }
 }
