@@ -32,7 +32,7 @@ class Solution {
         int lans = helper(root.left , ans , cur_max);
         int rans = helper(root.right , ans , cur_max);
 
-        return ans = lans + rans + rootans;
+        return lans + rans + rootans;
 
     }
 }
