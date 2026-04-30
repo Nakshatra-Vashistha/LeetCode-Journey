@@ -15,10 +15,10 @@
  */
 class Solution {
     public int goodNodes(TreeNode root) {
-        return helper(root , 0 , Integer.MIN_VALUE);
+        return helper(root , Integer.MIN_VALUE);
     }
 
-    public static int helper(TreeNode root , int ans , int cur_max ){
+    public static int helper(TreeNode root , int cur_max ){
         if(root == null){
             return 0;
         }
@@ -29,8 +29,8 @@ class Solution {
             cur_max = root.val;
         }
 
-        int lans = helper(root.left , ans , cur_max);
-        int rans = helper(root.right , ans , cur_max);
+        int lans = helper(root.left ,  cur_max);
+        int rans = helper(root.right ,  cur_max);
 
         return lans + rans + rootans;
 
