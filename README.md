@@ -65,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +208,8 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
