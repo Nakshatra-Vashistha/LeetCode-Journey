@@ -30,7 +30,7 @@ class Solution {
         }
 
         ListNode connect = B.next;
-        B.next = null;
+        // B.next = null;
 
         ListNode bTail = list2;
         while(bTail.next != null){
