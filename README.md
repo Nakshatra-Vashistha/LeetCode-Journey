@@ -75,6 +75,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1669-merge-in-between-linked-lists/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
