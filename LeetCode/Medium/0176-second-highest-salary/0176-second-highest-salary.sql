@@ -10,4 +10,4 @@ with cte as (
     from Employee
     where salary < (select Max(salary) from Employee)
 )
-select * from cte;
+select SecondHighestSalary from cte;
