@@ -214,6 +214,7 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [1158-market-analysis-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1158-market-analysis-i/) | Medium |
 ## Union-Find
