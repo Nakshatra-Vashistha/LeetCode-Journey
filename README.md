@@ -126,6 +126,7 @@
 | [1473-paint-house-iii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/2140-solving-questions-with-brainpower/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2179-count-good-triplets-in-an-array/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
@@ -254,6 +255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
