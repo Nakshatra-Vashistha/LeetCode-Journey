@@ -1,4 +1,4 @@
-WITH RECURSIVE TreeHierarchy AS (
+WITH RECURSIVE TreeH AS (
     SELECT id, p_id, 1 AS depth
     FROM Tree
     WHERE p_id IS NULL
@@ -7,14 +7,14 @@ WITH RECURSIVE TreeHierarchy AS (
     
    SELECT t.id, t.p_id, th.depth + 1 AS depth
     FROM Tree t
-    JOIN TreeHierarchy th ON t.p_id = th.id
+    JOIN TreeH th ON t.p_id = th.id
 )
 
 
 SELECT th.id,
     CASE 
         WHEN th.p_id IS NULL THEN 'Root'
-        WHEN th.id IN (SELECT DISTINCT p_id FROM TreeHierarchy) THEN 'Inner'
+        WHEN th.id IN (SELECT DISTINCT p_id FROM TreeH) THEN 'Inner'
         ELSE 'Leaf'
     END AS type
-FROM TreeHierarchy th;
+FROM TreeH th;
