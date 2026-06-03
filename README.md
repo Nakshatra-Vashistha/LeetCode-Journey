@@ -111,6 +111,7 @@
 | [0055-jump-game](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -239,6 +240,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -277,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
