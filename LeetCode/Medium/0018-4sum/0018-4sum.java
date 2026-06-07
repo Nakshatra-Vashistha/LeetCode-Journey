@@ -5,9 +5,10 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
 
         int n = nums.length;
+        if(n<4) return result;
 
-        for(int i = 0 ; i < n ; i++){
-            for(int j = i+1 ; j < n ; j++){
+        for(int i = 0 ; i < n-3 ; i++){
+            for(int j = i+1 ; j < n-2 ; j++){
                 int k = j+1;
                 int last = n-1;
                 while(k < last){
