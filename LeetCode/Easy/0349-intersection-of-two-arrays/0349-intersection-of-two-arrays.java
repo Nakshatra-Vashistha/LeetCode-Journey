@@ -6,13 +6,15 @@ class Solution {
         int i = 0;
         int j = 0;
 
-        HashSet<Integer> ans = new HashSet<>();
+        ArrayList<Integer> ans = new ArrayList<>();
 
         while(i < nums1.length && j < nums2.length){
             if(nums1[i] == nums2[j]){
                 ans.add(nums1[i]);
-                i++;
-                j++;
+                int val = nums1[i];
+
+                while (i < nums1.length && nums1[i] == val) i++;
+                while (j < nums2.length && nums2[j] == val) j++;
             }
             else if(nums1[i] > nums2[j]){
                 j++;
@@ -24,9 +26,8 @@ class Solution {
 
         }
         int[] arr = new int[ans.size()];
-        int k = 0;
-        for(int x : ans){
-            arr[k++] =x;
+        for(int k = 0 ; k < ans.size() ; k++){
+            arr[k] = ans.get(k);
         }
 
         return arr;
