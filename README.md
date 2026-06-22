@@ -130,6 +130,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
@@ -264,6 +265,7 @@
 | [0088-merge-sorted-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -290,6 +292,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0455-assign-cookies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@
 | [0088-merge-sorted-array](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
