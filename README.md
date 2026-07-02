@@ -91,6 +91,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0072-edit-distance](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0322-coin-change](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
@@ -245,6 +246,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0072-edit-distance](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
