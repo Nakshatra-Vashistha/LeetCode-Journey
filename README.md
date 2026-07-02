@@ -104,6 +104,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1092-shortest-common-supersequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -248,6 +249,7 @@
 | [0205-isomorphic-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Database
