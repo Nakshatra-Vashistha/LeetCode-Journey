@@ -1,36 +1,32 @@
 class Solution {
-    static int N;
+    static int size;
+    static int MAX = (int)1e9;
     public int coinChange(int[] coins, int amount) {
-        N = coins.length;
-        int[][] dp = new int[N][amount+1];
-        for(int[] row : dp){
-            Arrays.fill(row , -1);
-        }
-        int ans = helper( 0 , coins , amount , dp);
-        return ans >= (int)1e9 ? -1 : ans;
-        
+        size = coins.length;
+        Integer[][] dp = new Integer[size][amount+1];
+        int ans = coinChange( 0 , coins , amount , dp);
+        return ans == MAX ? -1 : ans;
     }
 
-    public int helper(int idx , int[] coins , int target , int[][] dp){
-        if(target == 0){
+    private int coinChange(int idx , int[] coins , int amount , Integer[][] dp){
+        if(amount == 0){
             return 0;
         }
-        if(idx == N){
-            return (int)1e9;
+        if(idx == size){
+            return MAX;
         }
 
-        if(dp[idx][target] != -1){
-            return dp[idx][target];
+        if(dp[idx][amount] != null){
+            return dp[idx][amount];
         }
 
-        int nottake = helper(idx+1,coins,target,dp);
+        int nottake = coinChange(idx+1 , coins , amount , dp);
 
-        int take = (int)1e9;
-        if(coins[idx] <= target){
-            take = 1 + helper(idx , coins , target - coins[idx], dp);
+        int take = MAX;
+        if(coins[idx] <= amount){
+            take = 1 +  coinChange(idx , coins , amount - coins[idx] , dp);
         }
 
-        return dp[idx][target] =  Math.min(take , nottake);
-
+        return dp[idx][amount] =  Math.min(take , nottake);
     }
 }
