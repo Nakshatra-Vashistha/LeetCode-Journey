@@ -11,15 +11,10 @@ class MinStack {
     
     public void push(int value) {
         stack.push(value);
-        if(minStack.isEmpty()){
+
+        if (minStack.isEmpty() || value <= minStack.peek()) {
             minStack.push(value);
         }
-        else{
-            if(value <= minStack.peek()){
-                minStack.push(value);
-            }
-        }
-        
     }
     
     public void pop() {
