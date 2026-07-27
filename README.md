@@ -12,6 +12,7 @@
 | [0205-isomorphic-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0575-distribute-candies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -137,6 +138,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -188,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
