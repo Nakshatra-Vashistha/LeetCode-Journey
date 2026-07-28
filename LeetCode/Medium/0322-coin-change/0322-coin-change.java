@@ -1,32 +1,32 @@
 class Solution {
-    static int size;
-    static int MAX = (int)1e9;
+    static int maxV;
     public int coinChange(int[] coins, int amount) {
-        size = coins.length;
-        Integer[][] dp = new Integer[size][amount+1];
-        int ans = coinChange( 0 , coins , amount , dp);
-        return ans == MAX ? -1 : ans;
+        int n = coins.length;
+        Integer[][] dp = new Integer[n+1][amount+1];
+        maxV = (int)1e9;
+        int ans = helper(0 , n,coins,dp , amount);
+        return ans == maxV ? -1 : ans;
     }
 
-    private int coinChange(int idx , int[] coins , int amount , Integer[][] dp){
-        if(amount == 0){
+    private static int helper(int idx , int size , int[] coins , Integer[][] dp , int target){
+        if(idx == size){
+            return maxV;
+        }
+        if(target == 0){
             return 0;
         }
-        if(idx == size){
-            return MAX;
+
+        if(dp[idx][target] != null){
+            return dp[idx][target];
         }
 
-        if(dp[idx][amount] != null){
-            return dp[idx][amount];
+        int nottake = helper(idx+1 , size , coins , dp , target);
+
+        int take = maxV;
+        if(coins[idx] <= target){
+            take = 1 + helper(idx , size , coins , dp , target - coins[idx]);
         }
 
-        int nottake = coinChange(idx+1 , coins , amount , dp);
-
-        int take = MAX;
-        if(coins[idx] <= amount){
-            take = 1 +  coinChange(idx , coins , amount - coins[idx] , dp);
-        }
-
-        return dp[idx][amount] =  Math.min(take , nottake);
+        return dp[idx][target] = Math.min(take , nottake);
     }
 }
