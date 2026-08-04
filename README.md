@@ -99,6 +99,7 @@
 | [0337-house-robber-iii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0494-target-sum](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0576-out-of-boundary-paths/) | Medium |
@@ -257,6 +258,7 @@
 | [0097-interleaving-string](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
