@@ -92,6 +92,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0322-coin-change](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
@@ -336,6 +337,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -345,4 +347,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Nakshatra-Vashistha/LeetCode-Journey/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
